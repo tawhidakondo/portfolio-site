@@ -1,0 +1,114 @@
+/* ======================================================
+    ### Responsive Mobile-first Media Queries ###
+========================================================= */
+
+/* ---------------------- max1280px --------------------- */
+@media screen and (max-width : 1199px){
+	.about-content{
+		margin-bottom:20px;
+	}
+    
+}
+
+
+/* ---------------------- max992px ---------------------- */
+@media screen and (max-width : 992px) {
+    
+   .about-content{
+		margin-bottom:20px;
+	}
+	.button-g{
+		margin-top:20px;
+		margin-left:130px;
+	}
+	
+	
+	
+}/* ------ end max992px ------- */
+
+
+/* ---------------------- max768px ----------------------*/
+@media screen and (max-width : 768px) {	
+    .about-content{
+		margin-bottom:20px;
+	}
+	.bs1{
+		width:48%;
+		height:auto;
+	}
+	.bs2{
+		width:49%;
+		height:auto;
+	}
+	.form-single{
+		width:100%;
+		height:auto;
+	}
+	.footer-text p{
+		text-align:center;
+	}
+	.add-sec{
+		margin-bottom:20px;
+	}
+	.button-g{
+		margin-top:20px;
+		margin-left:130px;
+	}
+}/* ------ end max768px ------- */
+
+/* ---------------------- max575px -------------------- */
+@media screen and (max-width : 575px) {
+    
+	.about-content{
+		margin-bottom:20px;
+	}
+	.blog-single{
+		width:100%;
+		height:auto;
+		
+	}
+	.grid-item{
+		width:100%;
+		height:auto;
+	}
+	.img-5 img{
+		width:100%;
+		height:auto;
+	}
+    .add-sec{
+		width:100%;
+		height:auto;
+		margin-bottom:25px;
+	}
+	.form-single{
+		width:100%;
+		height:auto;
+	}
+	.footer-text p{
+		text-align:center;
+	}
+	.rs-2{
+		padding-left:-50px;
+	}
+	.blog-banner h2{
+		
+		font-size:30px;
+	}
+	.media-body img{
+		width:100%;
+		height:auto;
+	}
+	.media-body p{
+		margin-top:50px;
+	}
+	.button-g{
+		margin-top:20px;
+		margin-left:130px;
+	}
+}/* ------ end max575px ------- */
+
+
+/*=============================================================
+//         							The End                         
+=============================================================== */
+
